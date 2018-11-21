@@ -12,9 +12,3 @@ describe("smoke test - ES6", () => {
         assert.equal(true, true);
     });
 });
-
-describe("test that should fail !!!", () => {
-    it("checks equality", () => {
-        assert.equal(true, false);
-    });
-});
