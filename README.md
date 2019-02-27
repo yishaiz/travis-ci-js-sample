@@ -8,4 +8,4 @@ a change to trigger test job
 running the string of jobs
 check run with test (if exist file)
 
-a change to test jenkins
+a change to test jenkins pipeline
