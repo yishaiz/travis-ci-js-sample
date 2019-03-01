@@ -9,4 +9,4 @@ running the string of jobs
 check run with test (if exist file)
 
 a change to test jenkins pipeline
-check for error
+check for error (permissions)
